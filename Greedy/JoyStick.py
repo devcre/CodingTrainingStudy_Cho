@@ -46,3 +46,6 @@ def solution(name):
         answer = rightward
     
     return answer
+
+# 중간에 방향을 틀어야 하는 경우 
+# ex) "ABAAAAABAB"
